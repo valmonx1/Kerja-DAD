@@ -3,12 +3,16 @@ PROJECT DETAIL :
 
 #TITLE	Weather Application
 
-ABOUT PROJECT 	Application that can detect humidity in a city by input the city name in the application
-LANGUAGE USE 	  Java and xml
-PLATFORM USE 	  Android Studio 
-API USE 	      OpenWeatherMap
+ABOUT PROJECT: 	Application that can detect humidity in a city by input the city name in the application
+
+LANGUAGE USE: 	Java and xml
+
+PLATFORM USE:	  Android Studio
+
+API USE: 	      OpenWeatherMap
                 http://api.openweathermap.org/data/2.5/weather
-GITHUB INK	    https://github.com/valmonx1/Kerja-DAD
+                
+GITHUB INK:	    https://github.com/valmonx1/Kerja-DAD
 
 
 #Screenshot Application :
