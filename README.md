@@ -15,7 +15,7 @@ GITHUB INK	    https://github.com/valmonx1/Kerja-DAD
 
 
 
-file:///C:/Users/Nabil/Downloads/WhatsApp%20Image%202018-11-06%20at%209.38.13%20AM.jpeg
+![screenshot](https://user-images.githubusercontent.com/38873615/48039930-e27b6a00-e1b1-11e8-96c2-2c01ca03ad91.jpeg)
 
 
 
